@@ -81,5 +81,5 @@ Executar a classe `GeradorTabuada.java`.
 **Terminal:**  
 Dentro da pasta `src`, usar:
 ```bash
-javac NomeDaClasse.java
+java NomeDaClasse.java
 java NomeDaClasse
